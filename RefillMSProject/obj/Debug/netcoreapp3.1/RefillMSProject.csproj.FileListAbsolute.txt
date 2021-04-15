@@ -1,0 +1,163 @@
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.exe
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.deps.json
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.runtimeconfig.json
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.runtimeconfig.dev.json
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.dll
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.pdb
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\RefillMSProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.AssemblyInfo.cs
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\staticwebassets\RefillMSProject.StaticWebAssets.Manifest.cache
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\staticwebassets\RefillMSProject.StaticWebAssets.xml
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\RefillMSProject.styles.css
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csproj.CopyComplete
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.dll
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.pdb
+C:\Users\hp\source\repos\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.exe
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.deps.json
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.runtimeconfig.json
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.pdb
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\staticwebassets\RefillMSProject.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\staticwebassets\RefillMSProject.StaticWebAssets.xml
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\RefillMSProject.styles.css
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csproj.CopyComplete
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.pdb
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\New folder (2)\RefillMSProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.exe
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.deps.json
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.runtimeconfig.json
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.pdb
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.AssemblyInfo.cs
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\staticwebassets\RefillMSProject.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\staticwebassets\RefillMSProject.StaticWebAssets.xml
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\RefillMSProject.styles.css
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csproj.CopyComplete
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.pdb
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.genruntimeconfig.cache
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\All MicroServices\RefillMSProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.exe
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.yaml
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.deps.json
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.runtimeconfig.json
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\RefillMSProject.pdb
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csprojAssemblyReference.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.AssemblyInfo.cs
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\staticwebassets\RefillMSProject.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\staticwebassets\RefillMSProject.StaticWebAssets.xml
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\RefillMSProject.styles.css
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.csproj.CopyComplete
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.dll
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.pdb
+C:\Users\user\Desktop\All MS with Yaml\All MicroServices-With Yaml\RefillMS\RefillMSProject\obj\Debug\netcoreapp3.1\RefillMSProject.genruntimeconfig.cache

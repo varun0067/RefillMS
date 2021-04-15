@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: subscriptionmicroserviceprojectdpl
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: SubscriptionMicroserviceProject
+  template:
+    metadata:
+      labels:
+        app: SubscriptionMicroserviceProject
+    spec:
+      containers:
+      - name: aksmailorderregg
+        image: aksmailorderregg.azurecr.io/aksmailorderregg:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: subscriptionmicroserviceprojectservice
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: SubscriptionMicroserviceProject
